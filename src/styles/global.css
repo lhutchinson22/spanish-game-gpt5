@@ -1,0 +1,13 @@
+body {
+  font-family: system-ui, Arial, sans-serif;
+  background: #fafafa;
+  margin: 0;
+  padding: 20px;
+}
+.app-root {
+  max-width: 860px;
+  margin: 0 auto;
+}
+button {
+  cursor: pointer;
+}
